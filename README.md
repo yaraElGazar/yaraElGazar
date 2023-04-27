@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm yaraElGazar</h1>
-<h4 align="center">I’m currently learning Web & UI Development 
+	<h4 align="center">I’m currently learning Web & UI Development </h4>
+	<img width="300px" src="https://octodex.github.com/images/mona-the-rivetertocat.png" />
+
 </div>
 	
 <div align="center">
