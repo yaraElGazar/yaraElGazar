@@ -4,15 +4,8 @@
 </div>
 	
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-	
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  media="(prefers-color-scheme: dark)" src="https://octodex.github.com/images/NUX_Octodex.gif"
-       alt="oct" /></a>
+       alt="snake" />
 </div>
 
 ### Languages and Tools:
